@@ -1,4 +1,4 @@
-# Repositorio para la liga  de IA de 42-madrid
+# Github de la liga de IA de 42-madrid
 
 ## Recursos
 
