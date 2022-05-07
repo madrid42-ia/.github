@@ -2,7 +2,7 @@
 
 ## Recursos
 
-### Procesamiento de lenguaje natural
+### Procesamiento de lenguaje natural
 - https://huggingface.co
 
 ### Machine learning
