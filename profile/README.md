@@ -11,6 +11,9 @@
 ### Deep learning
 - [http://introtodeeplearning.com](http://introtodeeplearning.com)
 
+### Pytorch
+- [https://pytorch.org/tutorials/beginner/basics/data_tutorial.html](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
+
 ### Python
 - https://learnxinyminutes.com/docs/python/
 - https://devdocs.io/python~3.9/
